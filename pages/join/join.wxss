@@ -1,0 +1,9 @@
+/* pages/join/join.wxss */
+ .banner {
+  width: 585rpx;
+  height: 780rpx;
+} 
+ .banner {
+  width: 100%;
+  height: 100Vh;
+} 

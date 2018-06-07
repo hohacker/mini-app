@@ -1,0 +1,6 @@
+<!--pages/join/join.wxml-->
+<!-- <image class='banner' src='/images/about.jpg'></image> -->
+ <image class='banner' src='/images/bear.jpg' style="position:relative"></image> 
+<view style="position:absolute; left:50px; top:0">
+  test only
+</view>
