@@ -22,7 +22,7 @@
 </swiper>
 <view class="title">
   <text>{{text}}</text>
-  <button bindtap='clickme'>测试按钮111</button>
+  <button bindtap='clickme'>测试按钮</button>
 </view>
 <view style="text-align:center;margin-top:30rpx">
   <text style='display:block'>视频测试</text>

@@ -13,12 +13,12 @@ Page({
     autoplay: true,
     interval: 5000,
     duration: 1000,
-    text:'test'
+    text:'文本'
   },
   clickme:function(event){
     console.log(event);
     this.setData({
-      text:'changed'
+      text:'has changed'
     })
   },
   onLoad: function () {

@@ -1,6 +1,6 @@
 <!--pages/join/join.wxml-->
 <!-- <image class='banner' src='/images/about.jpg'></image> -->
  <image class='banner' src='/images/bear.jpg' style="position:relative"></image> 
-<view style="position:absolute; left:50px; top:0">
-  test only
+<view style="position:absolute; left:5px; top:0">
+  作家李尚龙说：“在大城市里，搞废一个人的方式特别简单。给你一个安静狭小的空间，给你一根网线，最 好再加一个外卖电话。好了，你开始废了。”
 </view>
